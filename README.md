@@ -110,11 +110,12 @@ The developers work tirelessly to improve and develop faceswap. Many hours have 
 ### @torzdf ###
  There is very little faceswap code that hasn't been touched by torzdf. He is responsible for implementing the GUI, FAN aligner, MTCNN detector and porting the Villain, DFL-H128 and DFaker models to faceswap, as well as significantly improving many areas of the code.
 
-**Bitcoin:** 385a1r9tyZpt5LyZcNk1FALTxC8ZHta7yq
+If this library helped you out feel free to donate.
 
-**Ethereum:** 0x18CBbff5fA7C78de7B949A2b0160A0d1bd649f80
-
-**Paypal:** [![torzdf](https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JZ8PP3YE9J62L)
+ - ETH: 0x0a5EFE47E01748B0A49e14C4150a4E44eB32798f
+ - LTC: 3869Ap4CaipV598Hrd2gomWBp6V9pv18LS
+ - BCH: 3KnvDG8McvtFhnQmwfADFApmPpR6XUDV4j
+ - BTC: 3BZKFM1oYqUr6NfQWtNzqYXc5gzB9pqfM1
 
 ### @andenixa ###
 Creator of the Unbalanced and OHR models, as well as expanding various capabilities within the training process. Andenixa is currently working on new models and will take requests for donations.

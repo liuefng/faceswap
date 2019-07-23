@@ -117,16 +117,6 @@ If this library helped you out feel free to donate.
  - BCH: 3KnvDG8McvtFhnQmwfADFApmPpR6XUDV4j
  - BTC: 3BZKFM1oYqUr6NfQWtNzqYXc5gzB9pqfM1
 
-### @andenixa ###
-Creator of the Unbalanced and OHR models, as well as expanding various capabilities within the training process. Andenixa is currently working on new models and will take requests for donations.
-
-**Paypal:** [![andenixa](https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NRVLQYGS6NWTU)
-
-### @kvrooman ###
-Responsible for consolidating the converters, adding a lot of code to fix model stability issues, and helping significantly towards making the training process more modular, kvrooman continues to be a very active contributor.
-
-**Ethereum:** 0x18CBbff5fA7C78de7B949A2b0160A0d1bd649f80
-
 ## How to contribute
 
 ### For people interested in the generative models
